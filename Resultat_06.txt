@@ -1,0 +1,16 @@
+movie_id	movie_title	movie_date	movie_format	movie_genre_id	created_by_user	created_date	updated_date
+1	Apocalypse Now	1979-05-10	Film	11	OS_SGAD	NULL	NULL
+2	Star Wars:Episode IV - A New Hope	1977-05-25	Film	2	OS_SGAD	NULL	NULL
+3	Indiana Jones and the Temple of Doom	1984-05-08	Film	1	OS_SGAD	NULL	NULL
+4	The Terminal	2004-06-18	Digital	3	OS_SGAD	NULL	NULL
+5	Jaws	1975-01-01	Film	10	OS_SGAD	NULL	NULL
+6	ET The Extraterrestrial	1982-07-25	Film	5	OS_SGAD	NULL	NULL
+7	Psycho	1960-05-06	Film	9	OS_SGAD	NULL	NULL
+8	Ocho Apellidos Vascos	2014-03-14	Digital	3	OS_SGAD	NULL	NULL
+9	Ocho Apellidos Catalanes	2016-06-09	Digital	3	OS_SGAD	NULL	NULL
+10	El otro lado de la cama	2002-09-04	Digital	8	OS_SGAD	NULL	NULL
+12	El dia de la bestia	1994-12-25	Film	1	OS_SGAD	NULL	NULL
+13	Braveheart	1995-08-08	Film	4	OS_SGAD	NULL	NULL
+14	The Shawshank Redemption	1992-01-07	Film	4	OS_SGAD	NULL	NULL
+15	Las brujas de Zugarramurdi	2009-10-07	Digital	9	OS_SGAD	NULL	NULL
+16	Blade Runner	1982-12-25	Digital	2	OS_SGAD	NULL	NULL

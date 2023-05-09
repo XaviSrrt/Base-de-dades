@@ -1,0 +1,39 @@
+nom	pais	data_naixement
+John Williams	United States	1928-08-08
+Vera Miles	United States	1929-08-23
+Sean Connery	Scotland	1930-07-08
+Robert Duvall	United States	1931-01-05
+Morgan Freeman	United States	1935-10-01
+Francis Ford Coppola	United States	1939-04-07
+Gary Kurtz	United States	1940-07-27
+Martin Sheen	United States	1940-08-03
+Harrison Ford	United States	1942-07-13
+George Lucas	United States	1944-05-14
+Carmine Coppola	United States	1945-07-08
+Steven Spielberg	United States	1946-12-18
+Tim Robbins	United States	1949-06-07
+Mel Gibson	Australia	1950-08-09
+Tom Hanks	United States	1956-07-09
+Emilio Martinez Lazaro	Spain	1956-09-09
+Karra Elejalde	Spain	1960-03-06
+Emilio Estevez	United States	1962-05-12
+Ramón Estevez	United States	1963-08-07
+Carmen Machi	Spain	1964-08-09
+Charlie Sheen	United States	1965-09-03
+Reneé Estevez	United States	1967-04-02
+Catherine Zeta-Jones	Wales	1969-09-25
+Robert Alamo	Spain	1970-05-06
+Daniel Sanchez Arevalo	Spain	1970-06-08
+Quim Gutierrez	Spain	1981-03-27
+Veronica Echegui	Spain	1983-03-14
+Taylor Levi Estevez	United States	1984-06-22
+Dani Rovira	Spain	1984-07-01
+Paula Speert Sheen	United States	1986-01-06
+Paloma Rae Estevez	United States	1986-02-15
+Clara Lago	Spain	1986-04-17
+Patrick Criado	Spain	1995-09-23
+Paula Jones-Sheen	United States	2003-07-06
+Sam Sheen	United States	2004-03-09
+Lola Sheen	United States	2005-06-01
+Bob Sheen	United States	2009-05-01
+Max Sheen	United States	2009-05-01

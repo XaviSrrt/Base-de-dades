@@ -1,0 +1,12 @@
+person_name	count(tb_movie_person.role_id)
+Francis Ford Coppola	3
+Harrison Ford	3
+George Lucas	3
+Steven Spielberg	5
+Alfred Joseph Hitchcock	3
+Emilio Martinez Lazaro	3
+Dani Rovira	2
+Clara Lago	2
+Carmen Machi	2
+Karra Elejalde	2
+Mel Gibson	2

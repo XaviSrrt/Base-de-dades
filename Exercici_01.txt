@@ -1,0 +1,38 @@
+-- Exercici 1
+A partir dels documents adjunts (estructura i dades), crea una base de dades amb MySQL. 
+Mostra les característiques principals de l'esquema creat i explica les diferents taules i variables que hi ha.
+
+RESPOSTA A L'EXERCICI
+
+Amb l'execució dels fitxers proposats es crea la base dades 'movies' amb les següents taules, amb el contingut descrit i amb les característiques destacables:
+
+tb_genre
+	Informació sobre els diferents géneres a que poden pertanyer les pel·lícules; nom del gènere, usuari de creació i dates de creació i modificació.
+	El camp clau es genre_id.
+	No hi ha mes indexos a part de la clau primaria
+
+tb_movie
+	Informació sobre les pel·licules.
+	La clau primaria es movie_id.
+	A mes de la clau primaria hi un index definit sobre movie_genre_id com  clau externa.
+	Està relacionada amb la taula tb_genre amb el camp movie_genre_id -> genre_id. És una relacio 1:N, cada pel·lícula te un gènere i un gènere pot tenir vàries pel·lícules.
+      Hi ha definides restriccions sobre l'el·liminació i la modicació per garantir la integritat de la base de dades.
+
+tb_movie_person
+	Informació sobre la relació entre pel·licules, persones que hi intervenen i el paper que hi juguen. Aquesta informacio es indicar si ha estat premiat la combinacio de les 3 entitats.
+	Els camps clau son movie_id,person_id i role_id.
+	Es una relació entre les taules tb_movie (amb el camp movie_id), tb_person (amb el camp person_id) i amb la taula tb_role (amb el camp role_id). És una relació (N:M:L)
+	Els indexos son els camps de la clau primaria i les externes.
+	Hi ha restriccions sobre l'esborrat i la modicació de registres per garantir la integritat de la base de dades.
+
+tb_person
+	Informació sobre les persones, com el nom, el pais, dates de naixement i defunció.
+      El camp clau es person_id.
+	Te una relació amb ella mateixa (recursiva) per identificar els pares de les persones, mitjançant el camp person_parent_id. es (1:N) ja que un pare pot tenir varis fills a la taula.
+	Hi han restriccions definides sobre la modificacio y l'el·liminació de registres per assegurar la integritat de la base de dades evitant que puguin quedar dades inconnexes.
+
+tb_role
+	Informació sobre els diferents papers que poden exercir les persones en les pel·licules.
+	El camp clau es role_id.
+	No hi ha definits més indexos mes enllà del camp clau.
+

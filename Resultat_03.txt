@@ -1,0 +1,10 @@
+genre_name	total_pelicules
+Comedia	3
+Acción	2
+Ciencia Ficción	2
+Drama	2
+Suspense	2
+Fantasía	1
+Romance	1
+Terror	1
+Bélico	1

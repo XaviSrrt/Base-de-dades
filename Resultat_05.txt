@@ -1,0 +1,13 @@
+genre_id	genre_name	created_by_user	created_date	updated_date
+1	Acción	OS_SGAD	NULL	NULL
+2	Ciencia Ficción	OS_SGAD	NULL	NULL
+3	Comedia	OS_SGAD	NULL	NULL
+4	Drama	OS_SGAD	NULL	NULL
+5	Fantasía	apermag	NULL	NULL
+6	Melodrama	apermag	2018-09-01	2018-09-27
+7	Musical	OS_SGAD	NULL	NULL
+8	Romance	OS_SGAD	NULL	NULL
+9	Suspense	OS_SGAD	NULL	NULL
+10	Terror	OS_SGAD	NULL	NULL
+11	Bélico	OS_SGAD	NULL	NULL
+69	Documental	Xavi	2023-05-09	NULL

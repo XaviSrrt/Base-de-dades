@@ -1,0 +1,25 @@
+person_name	count(tb_movie_person.role_id)
+Francis Ford Coppola	3
+Carmine Coppola	1
+Marlon Brando	1
+Robert Duvall	1
+Martin Sheen	1
+Harrison Ford	3
+George Lucas	3
+Gary Kurtz	1
+Steven Spielberg	5
+John Williams	1
+Tom Hanks	1
+Catherine Zeta-Jones	1
+Alfred Joseph Hitchcock	3
+Anthony Perkins	1
+Vera Miles	1
+Emilio Martinez Lazaro	3
+Dani Rovira	2
+Clara Lago	2
+Carmen Machi	2
+Karra Elejalde	2
+Mel Gibson	2
+Morgan Freeman	1
+Tim Robbins	1
+Charlie Sheen	1

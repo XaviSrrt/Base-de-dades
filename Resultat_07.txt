@@ -1,0 +1,2 @@
+movie_title	movie_genre_id	genre_id	genre_name
+Ocho Apellidos Catalanes	3	3	Comedia
